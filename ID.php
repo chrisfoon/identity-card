@@ -1,6 +1,6 @@
 <?php
 
-namespace Douyasi\IdentityCard;
+namespace Chrisfoon\IdentityCard;
 
 /**
  * Class ID
